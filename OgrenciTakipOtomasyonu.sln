@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnesALTUN.OgrTakip.Dal", "EnesALTUN.OgrTakip.Dal\EnesALTUN.OgrTakip.Dal.csproj", "{8C443840-065B-44A8-BB6D-11FF8A4DA91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnesALTUN.OgrTakip.Dll", "EnesALTUN.OgrTakip.Dll\EnesALTUN.OgrTakip.Dll.csproj", "{84CC1A2B-A25C-4CBF-99C4-BD79AF9784C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnesALTUN.OgrTakip.UI.Win", "EnesALTUN.OgrTakip.UI.Win\EnesALTUN.OgrTakip.UI.Win.csproj", "{0A94B6D4-7B7E-43F5-BA41-CD8482C436A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnesALTUN.OgrTakip.Data", "EnesALTUN.OgrTakip.Data\EnesALTUN.OgrTakip.Data.csproj", "{1A5FA00D-8CC7-45A1-894F-B0663D5B5051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnesALTUN.OgrTakip.Model", "EnesALTUN.OgrTakip.Model\EnesALTUN.OgrTakip.Model.csproj", "{078A1165-1D28-4386-B314-CC9F02D8AC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnesALTUN.OgrTakip.Common", "EnesALTUN.OgrTakip.Common\EnesALTUN.OgrTakip.Common.csproj", "{92064AE1-4D2B-4F04-B156-2BFDD3AAC37C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C443840-065B-44A8-BB6D-11FF8A4DA91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C443840-065B-44A8-BB6D-11FF8A4DA91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C443840-065B-44A8-BB6D-11FF8A4DA91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C443840-065B-44A8-BB6D-11FF8A4DA91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CC1A2B-A25C-4CBF-99C4-BD79AF9784C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CC1A2B-A25C-4CBF-99C4-BD79AF9784C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CC1A2B-A25C-4CBF-99C4-BD79AF9784C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CC1A2B-A25C-4CBF-99C4-BD79AF9784C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A94B6D4-7B7E-43F5-BA41-CD8482C436A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A94B6D4-7B7E-43F5-BA41-CD8482C436A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A94B6D4-7B7E-43F5-BA41-CD8482C436A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A94B6D4-7B7E-43F5-BA41-CD8482C436A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5FA00D-8CC7-45A1-894F-B0663D5B5051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5FA00D-8CC7-45A1-894F-B0663D5B5051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5FA00D-8CC7-45A1-894F-B0663D5B5051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5FA00D-8CC7-45A1-894F-B0663D5B5051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078A1165-1D28-4386-B314-CC9F02D8AC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078A1165-1D28-4386-B314-CC9F02D8AC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078A1165-1D28-4386-B314-CC9F02D8AC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078A1165-1D28-4386-B314-CC9F02D8AC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92064AE1-4D2B-4F04-B156-2BFDD3AAC37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92064AE1-4D2B-4F04-B156-2BFDD3AAC37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92064AE1-4D2B-4F04-B156-2BFDD3AAC37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92064AE1-4D2B-4F04-B156-2BFDD3AAC37C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8873090-B2A3-4287-ADA7-2443D944A340}
+	EndGlobalSection
+EndGlobal
